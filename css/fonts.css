@@ -1,0 +1,80 @@
+/* font-family: "Muli-ExtraBold"; */
+@font-face {
+	font-family: "Muli-ExtraBold";
+	src: url("../fonts/Muli-ExtraBold/Muli-ExtraBold.eot");
+	src: url("../fonts/Muli-ExtraBold/Muli-ExtraBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Muli-ExtraBold/Muli-ExtraBold.woff") format("woff"),
+	url("../fonts/Muli-ExtraBold/Muli-ExtraBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Orbitron-Bold"; */
+@font-face {
+  font-family: "Orbitron-Bold";
+  src: url("../fonts/Orbitron-Bold/Orbitron-Bold.eot");
+  src: url("../fonts/Orbitron-Bold/Orbitron-Bold.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/Orbitron-Bold/Orbitron-Bold.woff") format("woff"),
+  url("../fonts/Orbitron-Bold/Orbitron-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "Orbitron-Regular"; */
+@font-face {
+  font-family: "Orbitron-Regular";
+  src: url("../fonts/Orbitron-Regular/Orbitron-Regular.eot");
+  src: url("../fonts/Orbitron-Regular/Orbitron-Regular.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/Orbitron-Regular/Orbitron-Regular.woff") format("woff"),
+  url("../fonts/Orbitron-Regular/Orbitron-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "Muli-Bold"; */
+@font-face {
+  font-family: "Muli-Bold";
+  src: url("../fonts/Muli-Bold/Muli-Bold.eot");
+  src: url("../fonts/Muli-Bold/Muli-Bold.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/Muli-Bold/Muli-Bold.woff") format("woff"),
+  url("../fonts/Muli-Bold/Muli-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "Muli-BoldItalic"; */
+@font-face {
+  font-family: "Muli-BoldItalic";
+  src: url("../fonts/Muli-BoldItalic/Muli-BoldItalic.eot");
+  src: url("../fonts/Muli-BoldItalic/Muli-BoldItalic.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/Muli-BoldItalic/Muli-BoldItalic.woff") format("woff"),
+  url("../fonts/Muli-BoldItalic/Muli-BoldItalic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "Muli-Black"; */
+@font-face {
+  font-family: "Muli-Black";
+  src: url("../fonts/Muli-Black/Muli-Black.eot");
+  src: url("../fonts/Muli-Black/Muli-Black.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/Muli-Black/Muli-Black.woff") format("woff"),
+  url("../fonts/Muli-Black/Muli-Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "Orbitron-Medium"; */
+@font-face {
+  font-family: "Orbitron-Medium";
+  src: url("../fonts/Orbitron-Medium/Orbitron-Medium.eot");
+  src: url("../fonts/Orbitron-Medium/Orbitron-Medium.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/Orbitron-Medium/Orbitron-Medium.woff") format("woff"),
+  url("../fonts/Orbitron-Medium/Orbitron-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+/* font-family: "Muli-Italic"; */
+@font-face {
+  font-family: "Muli-Italic";
+  src: url("../fonts/Muli-Italic/Muli-Italic.eot");
+  src: url("../fonts/Muli-Italic/Muli-Italic.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/Muli-Italic/Muli-Italic.woff") format("woff"),
+  url("../fonts/Muli-Italic/Muli-Italic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
